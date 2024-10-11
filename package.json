@@ -27,7 +27,7 @@
   },
   "scripts": {
     "test": "jest",
-    "ts": "ts-node"
+    "ts": "ts-node src/main.ts"
   },
   "author": "Extend",
   "license": "ISC",
