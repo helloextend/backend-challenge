@@ -31,5 +31,6 @@
   },
   "author": "Extend",
   "license": "ISC",
-  "homepage": "https://github.com/helloextend/backend-challenge#readme"
+  "homepage": "https://github.com/helloextend/backend-challenge#readme",
+  "packageManager": "pnpm@10.30.3"
 }
